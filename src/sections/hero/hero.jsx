@@ -28,7 +28,7 @@ function hero() {
             <h1>Raghav<br/>Tiwari</h1>
             <h2>Aspiring Frontend/Backend Developer</h2>
             <span>
-                <a href='https://github.com/' target='_blank'>
+                <a href='https://github.com/rdot411' target='_blank'>
                 <img src={githubIcon} alt='github icon'/>
                 </a>
 
