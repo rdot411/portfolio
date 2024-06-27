@@ -11,7 +11,7 @@ import ProjectCard from '../../common/ProjectCard';
 function Projects() {
   return (
     <>
-        <h1 className="sectionTitle">Projects</h1>
+    <h1 className="sectionTitle">Projects</h1>
     <section id='projects' className={styles.container}>
       <div className={styles.projectsContainer}>
         <ProjectCard src={pokedex} link='https://whosthatmon.netlify.app/' h3='WhosThatMon' p='Pokedex Project using HTML, CSS, JavaScript and PokeApi'/>
