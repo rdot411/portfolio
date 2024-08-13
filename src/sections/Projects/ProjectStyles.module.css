@@ -24,10 +24,9 @@
     }
 
     .projectsContainer{
-        display: flex;
         flex-direction: row;
         align-items: center;
-        gap: 30px;
+        gap: 35px;
     }
 }
 
